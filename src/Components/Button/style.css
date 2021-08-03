@@ -1,0 +1,18 @@
+button {
+    color: white;
+    height: 50px;
+    width: 200px;
+    margin: 8px;
+    border-radius: 6px;
+    font-size : 20px;
+    
+}
+
+.primary {
+    background-color: green;
+
+}
+
+.default {
+    background-color: blue;
+}
